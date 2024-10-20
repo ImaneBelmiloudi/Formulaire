@@ -106,3 +106,9 @@ input:focus, textarea:focus {
     0% { opacity: 0; }
     100% { opacity: 1; }
 }
+.error-message {
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
+    margin-bottom: -0.8rem;
+}
+
